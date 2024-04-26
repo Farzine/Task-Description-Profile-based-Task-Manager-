@@ -1,5 +1,9 @@
 const TickIcon = () => {
-  return <div></div>;
+  return (
+    <div>
+      
+    </div>
+  )
 };
 
 export default TickIcon;
